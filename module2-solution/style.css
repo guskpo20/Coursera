@@ -45,7 +45,7 @@ h1 {
 
 .chicken{
     background-color:pink;         
-    color: white;
+    color: black;
     }
 .beef{
     background-color:red;
@@ -53,7 +53,7 @@ h1 {
    }
 .sushi{
     background-color:orange;
-    color: white;   
+    color: black;   
    }
 
 @media (min-width: 992px) {  
